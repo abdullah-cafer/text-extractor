@@ -16,7 +16,7 @@ This Python script uses Tkinter for a GUI interface to extract text content from
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/abdullah-cafer/text-extractor
    ```
 
 2. **Install Dependencies:**
